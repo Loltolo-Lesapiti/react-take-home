@@ -23,7 +23,7 @@ This is a simple notion like text editor with the functionalities.
 
 ## Live demo
 
-You can watch [here]() a live demo of this project.
+You can watch [https://loltolo-lesapiti.github.io/react-take-home/]() a live demo of this project.
 
 ## Test
 
