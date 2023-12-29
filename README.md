@@ -8,6 +8,8 @@ This is a simple notion like text editor with the functionalities.
 
 # The user can hightlight the text enter and bold it, choose a different header or change color.
 
+# A user can also click add block to add another block.
+
 ## Built with
 
 - React for User Interface.
