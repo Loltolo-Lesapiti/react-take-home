@@ -1,6 +1,6 @@
 import Editor from './components/Editor/editor'
 import HeroSection from './components/HeroSection/hero'
-import './app.css'
+import './App.css'
 
 function App() {
   return (
