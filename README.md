@@ -1,15 +1,12 @@
 <!--lint disable awesome-heading awesome-github awesome-toc double-link -->
 
-<p align="center">
-  <br>
-  <img width="400" src="./assets/logo.svg" alt="logo of awesome-vite repository">
-  <br>
-  <br>
-</p>
-
 # Take Home FrontEnd Assignment
 
-This is a simple notion like text editor developed with react.
+This is a simple notion like text editor with the functionalities.
+
+# The user can choose the header they want.
+
+# The user can hightlight the text enter and bold it, choose a different header or change color.
 
 ## Built with
 
