@@ -1,0 +1,21 @@
+{
+    "compilerOptions": {
+      "target": "esnext",
+      "module": "esnext",
+      "moduleResolution": "node",
+      "jsx": "react",
+      "strict": true,
+      "esModuleInterop": true,
+      "skipLibCheck": true,
+      "forceConsistentCasingInFileNames": true,
+      "noImplicitAny": false,
+      "declaration": true,
+      "allowSyntheticDefaultImports": true,
+      "resolveJsonModule": true,
+      "isolatedModules": true,
+      "noEmit": true
+    },
+    "include": ["src/**/*.ts", "src/**/*.d.ts", "src/**/*.tsx"],
+    "exclude": ["node_modules"]
+  }
+  
