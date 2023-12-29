@@ -87,11 +87,11 @@ Follow these steps to clone my Github repo on Windows:
 4. Click on “Clone or download” and copy the URL.
 5. Use the git clone command along with the copied URL from earlier;
 
-- $ git clone https://
+- $ git clone https://github.com/Loltolo-Lesapiti/react-take-home
 
 6. Press Enter;
 
-- $ git clone https://
+- $ git clone https://github.com/Loltolo-Lesapiti/react-take-home
   Cloning into Git …
   remote: Counting objects: 13, done.
   remote: Compressing objects: 100% (13/13), done.
