@@ -1,12 +1,5 @@
 <!--lint disable awesome-heading awesome-github awesome-toc double-link -->
 
-<p align="center">
-  <br>
-  <img width="400" src="./assets/logo.svg" alt="logo of awesome-vite repository">
-  <br>
-  <br>
-</p>
-
 # Take Home FrontEnd Assignment
 
 This is a simple notion like text editor developed with react.
